@@ -24,22 +24,44 @@ Currently seeking **Software Development Engineer (SDE) Internship opportunities
 
 ---
 
-## 🛠 Technical Skills
+# 💻 Tech Stack:
 
-### Frontend
-React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
+<p align="left">
 
-### Backend
-Node.js | Express.js | REST APIs | MVC Architecture | JWT Authentication  
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-### Database
-MongoDB | SQL | Query Optimization  
+<br/>
 
-### DevOps & Tools
-Docker | Kubernetes | Git | GitHub Actions | Postman  
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-### Core CS
-Data Structures & Algorithms | OOPS | Computer Networks  
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-151B23?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-151B23?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br/>
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<!-- DevOps & Tools -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
 
 ---
 
@@ -88,12 +110,12 @@ Arrays | Hashing | Two Pointers | Sorting & Searching | Recursion | Introductory
 
 <div align="left">
 
-📧 **prakashshukla0907@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/prakash-shukla-86b987306/)  
-💻 [GitHub](https://github.com/PrakashShukla0907)  
-🧠 [LeetCode](https://leetcode.com/prakash0907/)  
+<a href="https://www.linkedin.com/in/prakash-shukla-86b987306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block;"/></a>
+<a href="mailto:prakashshukla0907@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block;"/></a>
+<a href="https://leetcode.com/prakash0907/"><img src="https://img.shields.io/badge/LeetCode-151B23?style=for-the-badge&logo=leetcode&logoColor=FFA116" style="display:inline-block;"/></a>
 
 </div>
+
 
 ---
 
