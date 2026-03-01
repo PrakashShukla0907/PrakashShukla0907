@@ -65,16 +65,6 @@ Currently seeking **Software Development Engineer (SDE) Internship opportunities
 
 ---
 
-## 🧠 Problem Solving
-
-- ⭐ 1500+ LeetCode Rating  
-- 💻 90+ Problems Solved  
-
-Proficient in:
-Arrays | Hashing | Two Pointers | Sorting & Searching | Recursion | Introductory Dynamic Programming | OOPS  
-
----
-
 ## 🏆 Open Source & Achievements
 
 ### Hacktoberfest 2025
