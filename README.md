@@ -8,7 +8,7 @@
 
 # Prakash Shukla  
 **B.Tech Computer Science | Chandigarh University (2024–2028)**  
-**MERN Stack Developer** | **LeetCode 1500+ Rating** | **Open Source Contributor**
+**MERN Stack Developer** | **Open Source Contributor**
 
 </div>
 
